@@ -4,8 +4,7 @@ A criação do projeto foi feita no Visual studio community 2019
 
 
 Desafio:
->>>> Escreva uma função f que mostre a soma de todos os dígitos de um fatorial, 
-que varia de 0 a 2000 (em termos matemáticos - [0,2000]).
+Escreva uma função f que mostre a soma de todos os dígitos de um fatorial
 
 
 Ao baixar o projeto, encontrar na primeira pasta com o nome BRF1, a qual está localizada o
