@@ -10,11 +10,11 @@ namespace BRF1
     {
           static void Main(string[] args)
         {
-            int i, number, fact;
+            int i, numero, fact;
             Console.WriteLine("Digite um numero");
-            number = int.Parse(Console.ReadLine());
-            fact = number;
-            for (i = number - 1; i >= 1; i--)
+            numero = int.Parse(Console.ReadLine());
+            fact = numero;
+            for (i = numero - 1; i >= 1; i--)
             {
                 fact = fact * i;
             }
