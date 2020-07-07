@@ -1,0 +1,3 @@
+# Fatorial-em-C-
+>>>> Escreva uma função f que mostre a soma de todos os dígitos de um fatorial, 
+que varia de 0 a 2000 (em termos matemáticos - [0,2000]). Por exemplo. f(2) = 2, f(3) = 6, ...
