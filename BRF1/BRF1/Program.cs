@@ -6,12 +6,12 @@ namespace BRF1
     class Program
     {
        
-        static long Fatorial(int number)
+        static long Fatorial(int numero)
         {
          
-            if (number <= 1)
+            if (numero <= 1)
                 return 1;
-            else return number * Fatorial(number - 1);
+            else return numero * Fatorial(numero - 1);
         }
 
        
